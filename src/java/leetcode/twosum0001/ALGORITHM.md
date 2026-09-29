@@ -27,7 +27,7 @@ For each element:
 
 1. Check whether the current number is expected.
 2. If yes, return both indices.
-3. Otherwise, store the number that is required to complete the pair.
+3. Otherwise, store the number required to complete the pair.
 
 ## Notes
 
